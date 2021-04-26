@@ -1,5 +1,5 @@
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "asde"
+date: 1111-22-33
 ---
 hhhhhhhhhhhh
